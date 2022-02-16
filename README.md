@@ -22,13 +22,6 @@ User's flow:
 ![TipCalculator](desktop-preview.jpg)
 ![TipCalculator](mobile-design.jpg)
 
-
-### [View Live](https://riocantre.github.io/tip-calculator-app/)
-
-
-## Credits
-- [Frontend Mentor](https://www.frontendmentor.io/solutions/tip-calculator-app-iLKPRtEyd)
-
 <hr>
 
 
