@@ -20,7 +20,6 @@ User's flow:
 ## Screenshot
 
 ![TipCalculator](desktop-preview.jpg)
-![TipCalculator](mobile-design.jpg)
 
 <hr>
 
