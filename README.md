@@ -31,7 +31,5 @@ User's flow:
 
 <hr>
 
-### ✨ [Portfolio Preview](https://github.com/RioCantre/rioc-portfolio/blob/main/README.md) 
-
 
 
